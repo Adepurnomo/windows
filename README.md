@@ -1,2 +1,2 @@
 # windows
-scripts_backup_active_directory
+# Backup incremental Active Directory using batch scripts
